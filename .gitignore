@@ -1,0 +1,7 @@
+# APK build outputs and local tooling (parent repo only; submodule has its own .gitignore)
+dist/
+.cache/
+.gradle-user-home/
+.android-sdk/
+.jdk/
+.env
